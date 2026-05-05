@@ -36,7 +36,7 @@ jobs:
       - name: Build APK
         run: |
           yes | flutter doctor --android-licenses || true
-          flet build apk --verbose
+          flet build apk --verbose --include-packages pandas
 
       - name: Upload APK
         if: success()
