@@ -17,28 +17,28 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install Python Dependencies
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install pandas "flet[all]"
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'zulu'
+          java-version: '17'
 
       - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
           channel: 'stable'
 
-      - name: Set up Java
-        uses: actions/setup-java@v4
-        with:
-          distribution: 'zulu'
-          java-version: '17'
-
       - name: Build APK
         run: |
-          # Lisansları otomatik onayla
+          # Android lisanslarını önceden onayla
           yes | flutter doctor --android-licenses || true
-          # APK inşa et (Dosya adını açıkça belirterek)
-          flet build apk --main app_flet.py --name "EasyLearningEnglish"
+          # Projeyi temizle ve bağımlılıkları al
+          flet build apk --main app_flet.py --name "EasyLearningEnglish" --verbose
 
       - name: Upload APK
         if: success()
