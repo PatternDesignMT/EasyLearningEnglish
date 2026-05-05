@@ -35,9 +35,9 @@ jobs:
 
       - name: Build APK
         run: |
-          # Lisansları sessizce onayla
+          # Lisansları onayla
           yes | flutter doctor --android-licenses || true
-          # Yeni nesil Flet build komutu
+          # SADECE BU KOMUT: Flet otomatik olarak main.py'yi bulacak
           flet build apk --verbose
 
       - name: Upload APK
