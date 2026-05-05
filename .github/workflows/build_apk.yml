@@ -35,10 +35,8 @@ jobs:
 
       - name: Build APK
         run: |
-          # Android lisanslarını önceden onayla
           yes | flutter doctor --android-licenses || true
-          # Projeyi temizle ve bağımlılıkları al
-          flet build apk --main app_flet.py --name "EasyLearningEnglish" --verbose
+          flet build apk --verbose
 
       - name: Upload APK
         if: success()
