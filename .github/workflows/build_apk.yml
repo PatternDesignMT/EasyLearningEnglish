@@ -35,13 +35,14 @@ jobs:
 
       - name: Build APK
         run: |
-          # app_flet.py dosyasının varlığını kontrol ediyoruz
-          ls -R
+          # Lisansları otomatik onayla
+          yes | flutter doctor --android-licenses || true
+          # APK inşa et (Dosya adını açıkça belirterek)
           flet build apk --main app_flet.py --name "EasyLearningEnglish"
 
       - name: Upload APK
         if: success()
         uses: actions/upload-artifact@v4
         with:
-          name: app-release
+          name: EasyLearningEnglish-App
           path: build/apk/*.apk
