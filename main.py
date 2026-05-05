@@ -1,37 +1,41 @@
 import flet as ft
-import pandas as pd
+import csv
 import random
 
 def main(page: ft.Page):
     page.title = "Easy Learning English"
     page.theme_mode = ft.ThemeMode.LIGHT
     page.padding = 20
-    page.window_width = 400
-    page.window_height = 600
+    
+    # Kelimeleri tutacak liste
+    words_db = []
 
-    # Veriyi yükle
+    # Veriyi standart Python csv modülü ile yükle
     try:
-        df = pd.read_csv("A1_Kelimeler.csv")
+        with open("A1_Kelimeler.csv", mode='r', encoding='utf-8') as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+                words_db.append(row)
     except Exception as e:
-        return page.add(ft.Text(f"Hata: Veri dosyası bulunamadı! {e}"))
+        return page.add(ft.Text(f"Hata: Veri dosyası okunamadı! {e}"))
 
     def get_new_word():
-        random_row = df.sample(n=1).iloc[0]
-        return random_row['Word'], random_row['Turkish']
+        return random.choice(words_db) if words_db else {"Word": "No Data", "Turkish": "Veri Yok"}
 
-    current_word, current_translation = get_new_word()
-
-    word_text = ft.Text(current_word, size=40, weight=ft.FontWeight.BOLD, color=ft.Colors.BLUE_900)
+    # İlk kelimeyi al
+    current_data = get_new_word()
+    
+    word_text = ft.Text(current_data['Word'], size=40, weight=ft.FontWeight.BOLD, color=ft.Colors.BLUE_900)
     translation_text = ft.Text("", size=30, italic=True, color=ft.Colors.GREEN_700)
 
     def show_translation(e):
-        translation_text.value = current_translation
+        translation_text.value = current_data['Turkish']
         page.update()
 
     def next_word(e):
-        nonlocal current_word, current_translation
-        current_word, current_translation = get_new_word()
-        word_text.value = current_word
+        nonlocal current_data
+        current_data = get_new_word()
+        word_text.value = current_data['Word']
         translation_text.value = ""
         page.update()
 
