@@ -1,0 +1,500 @@
+Word,Pronunciation,Meaning,Example Sentence,Example Meaning,Sentence Pronunciation,Category
+Be,(bi),Olmak,I want to be happy.,Mutlu olmak istiyorum.,(ay vant tu bi he-pi),Verb
+Go,(go),Gitmek,Let's go home.,Hadi eve gidelim.,(lets go hom),Verb
+Do,(du),Yapmak,I can do it.,Onu yapabilirim.,(ay ken du it),Verb
+Have,(hev),Sahip olmak,I have a dream.,Bir hayalim var.,(ay hev ey drim),Verb
+Say,(sey),Söylemek,What did you say?,Ne söyledin?,(vat did yu sey),Verb
+Get,(get),Almak / Edinmek,I need to get some water.,Biraz su almam gerekiyor.,(ay nid tu get sam vo-týr),Verb
+Make,(meyk),Yapmak (Yaratmak),Don't make a mistake.,Hata yapma.,(dont meyk ey mis-teyk),Verb
+Know,(nou),Bilmek,I know the answer.,Cevabý biliyorum.,(ay nou di en-sýr),Verb
+Think,(tink),Düþünmek,I think you are right.,Bence haklýsýn.,(ay tink yu ar rayt),Verb
+Take,(teyk),Almak (Götürmek),Take your umbrella.,Þemsiyeni al.,(teyk yor am-bre-la),Verb
+See,(si),Görmek,I see the problem.,Problemi görüyorum.,(ay si dý prob-lým),Verb
+Come,(kam),Gelmek,Please come here.,Lütfen buraya gel.,(pliz kam hir),Verb
+Want,(vant),Ýstemek,I want to learn.,Öðrenmek istiyorum.,(ay vant tu lörn),Verb
+Use,(yuz),Kullanmak,How do I use this?,Bunu nasýl kullanýrým?,(hav du ay yuz dis),Verb
+Find,(faynd),Bulmak,I can't find my keys.,Anahtarlarýmý bulamýyorum.,(ay kent faynd may kiz),Verb
+Give,(giv),Vermek,Give me a hand.,Bana yardým et.,(giv mi ey hend),Verb
+Tell,(tel),Anlatmak,Tell me a story.,Bana bir hikaye anlat.,(tel mi ey sto-ri),Verb
+Work,(vörk),Çalýþmak,I work every day.,Her gün çalýþýrým.,(ay vörk ev-ri dey),Verb
+Call,(kol),Aramak / Çaðýrmak,Call me later.,Beni sonra ara.,(kol mi ley-týr),Verb
+Try,(tray),Denemek,Just try your best.,Sadece elinden geleni dene.,(cast tray yor best),Verb
+Ask,(esk),Sormak,Can I ask a question?,Bir soru sorabilir miyim?,(ken ay esk ey kves-çýn),Verb
+Need,(nid),Ýhtiyaç duymak,I need help.,Yardýma ihtiyacým var.,(ay nid help),Verb
+Feel,(fil),Hissetmek,I feel good today.,Bugün iyi hissediyorum.,(ay fil gud tu-dey),Verb
+Become,(bi-kam),Haline gelmek,He will become a doctor.,O bir doktor olacak.,(hi vil bi-kam ey dok-týr),Verb
+Leave,(liv),Ayrýlmak,Don't leave me.,Beni terk etme.,(dont liv mi),Verb
+Put,(put),Koymak,Put it on the table.,Onu masanýn üzerine koy.,(put it on dý tey-býl),Verb
+Mean,(min),Anlamýna gelmek,What does this mean?,Bu ne anlama geliyor?,(vat daz dis min),Verb
+Keep,(kip),Tutmak / Korumak,Keep the secret.,Sýrrý tut.,(kip dý sik-rýt),Verb
+Let,(let),Ýzin vermek,Let me go.,Gitmeme izin ver.,(let mi go),Verb
+Begin,(bi-gin),Baþlamak,Let's begin now.,Hadi þimdi baþlayalým.,(lets bi-gin nav),Verb
+Seem,(sim),Görünmek,You seem tired.,Yorgun görünüyorsun.,(yu sim tay-ýrd),Verb
+Help,(help),Yardým etmek,Can you help me?,Bana yardým edebilir miyin?,(ken yu help mi),Verb
+Show,(þov),Göstermek,Show me the way.,Bana yolu göster.,(þov mi dý vey),Verb
+Hear,(hir),Duymak,I can hear you.,Seni duyabiliyorum.,(ay ken hir yu),Verb
+Play,(pley),Oynamak,They play football.,Onlar futbol oynar.,(dey pley fut-bol),Verb
+Run,(ran),Koþmak,I like to run.,Koþmayý severim.,(ay layk tu ran),Verb
+Move,(muv),Hareket etmek,Don't move.,Kýmýldama.,(dont muv),Verb
+Live,(liv),Yaþamak,I live in Turkey.,Türkiye'de yaþýyorum.,(ay liv in tür-ki),Verb
+Believe,(bi-liv),Ýnanmak,I believe you.,Sana inanýyorum.,(ay bi-liv yu),Verb
+Bring,(bring),Getirmek,Bring me some tea.,Bana biraz çay getir.,(bring mi sam ti),Verb
+Time,(taym),Zaman,I don't have time.,Zamaným yok.,(ay dont hev taym),Noun
+Year,(yir),Yýl,Last year was great.,Geçen yýl harikaydý.,(lest yir vaz greyt),Noun
+People,(pi-pýl),Ýnsanlar,People are nice.,Ýnsanlar naziktir.,(pi-pýl ar nays),Noun
+Way,(vey),Yol,This is the way.,Yol budur.,(dis iz dý vey),Noun
+Day,(dey),Gün,Have a nice day.,Ýyi günler.,(hev ey nays dey),Noun
+Man,(men),Adam,He is a good man.,O iyi bir adam.,(hi iz ey gud men),Noun
+Thing,(ting),Þey,One more thing.,Bir þey daha.,(van mor ting),Noun
+Woman,(vu-mýn),Kadýn,She is a strong woman.,O güçlü bir kadýn.,(þi iz ey strong vu-mýn),Noun
+Life,(layf),Hayat,Life is beautiful.,Hayat güzeldir.,(layf iz bi-yu-ti-ful),Noun
+Child,(çayld),Çocuk,The child is playing.,Çocuk oynuyor.,(dý çayld iz pley-ing),Noun
+World,(vörld),Dünya,Around the world.,Dünya çapýnda.,(e-ravnd dý vörld),Noun
+School,(skul),Okul,I go to school.,Okula gidiyorum.,(ay go tu skul),Noun
+State,(steyt),Durum / Eyalet,A solid state.,Katý bir durum.,(ey so-lid steyt),Noun
+Family,(fe-mi-li),Aile,I love my family.,Ailemi seviyorum.,(ay lav may fe-mi-li),Noun
+Student,(stü-dýnt),Öðrenci,I am a student.,Ben bir öðrenciyim.,(ay em ey stü-dýnt),Noun
+Group,(grup),Grup,Join our group.,Grubumuza katýl.,(coin a-výr grup),Noun
+Country,(kan-tri),Ülke,Which country?,Hangi ülke?,(viç kan-tri),Noun
+Problem,(prob-lým),Problem,No problem.,Problem yok.,(no prob-lým),Noun
+Hand,(hend),El,Wash your hand.,Elini yýka.,(voþ yor hend),Noun
+Part,(part),Parça,This is a part of it.,Bu onun bir parçasý.,(dis iz ey part ov it),Noun
+Place,(pleys),Yer,A quiet place.,Sessiz bir yer.,(ey kva-yýt pleys),Noun
+Case,(keys),Durum / Vaka,In this case.,Bu durumda.,(in dis keys),Noun
+Week,(vik),Hafta,Next week.,Gelecek hafta.,(nekst vik),Noun
+Company,(kam-pý-ni),Þirket,A big company.,Büyük bir þirket.,(ey big kam-pý-ni),Noun
+System,(sis-tým),Sistem,The system is down.,Sistem kapalý.,(dý sis-tým iz davn),Noun
+Program,(pro-gram),Program,A new program.,Yeni bir program.,(ey ni-yu pro-gram),Noun
+Question,(kves-çýn),Soru,Any question?,Herhangi bir soru var mý?,(e-ni kves-çýn),Noun
+Work,(vörk),Ýþ,Good work.,Ýyi iþ.,(gud vörk),Noun
+Government,(ga-výrm-mýnt),Hükümet,The government decided.,Hükümet karar verdi.,(dý ga-výrm-mýnt di-say-did),Noun
+Number,(nam-býr),Numara,What is your number?,Numaran kaç?,(vat iz yor nam-býr),Noun
+Night,(nayt),Gece,Good night.,Ýyi geceler.,(gud nayt),Noun
+Mr,(mis-týr),Bay,Mr. Brown.,Bay Brown.,(mis-týr bravn),Noun
+Point,(poynt),Nokta,Good point.,Ýyi nokta (haklýsýn).,(gud poynt),Noun
+Home,(hom),Ev,Go home.,Eve git.,(go hom),Noun
+Water,(vo-týr),Su,Drink water.,Su iç.,(drink vo-týr),Noun
+Room,(rum),Oda,A large room.,Büyük bir oda.,(ey larc rum),Noun
+Mother,(ma-dýr),Anne,My mother is kind.,Annem naziktir.,(may ma-dýr iz kaynd),Noun
+Area,(e-ri-ya),Alan,In this area.,Bu alanda.,(in dis e-ri-ya),Noun
+Money,(ma-ni),Para,Save money.,Para biriktir.,(seyv ma-ni),Noun
+Story,(sto-ri),Hikaye,Tell a story.,Bir hikaye anlat.,(tel ey sto-ri),Noun
+Fact,(fekt),Gerçek,It is a fact.,Bu bir gerçektir.,(it iz ey fekt),Noun
+Month,(mant),Ay,Next month.,Gelecek ay.,(nekst mant),Noun
+Lot,(lot),Çok,A lot of people.,Bir çok insan.,(ey lot ov pi-pýl),Noun
+Right,(rayt),Doðru / Sað,You are right.,Haklýsýn.,(yu ar rayt),Adj/Noun
+Study,(sta-di),Çalýþmak (Ders),I must study.,Ders çalýþmam lazým.,(ay mast sta-di),Verb
+Book,(buk),Kitap,Read a book.,Bir kitap oku.,(rid ey buk),Noun
+Eye,(ay),Göz,Close your eye.,Gözünü kapat.,(kloz yor ay),Noun
+Job,(cab),Ýþ / Meslek,I have a job.,Bir iþim var.,(ay hev ey cab),Noun
+Word,(vörd),Kelime,One word.,Bir kelime.,(van vörd),Noun
+Business,(biz-nýs),Ýþ / Ticaret,Small business.,Küçük iþletme.,(smol biz-nýs),Noun
+Issue,(i-þu),Mesele / Sorun,A big issue.,Büyük bir mesele.,(ey big i-þu),Noun
+Side,(sayd),Yan / Taraf,On my side.,Benim tarafýmda.,(on may sayd),Noun
+Kind,(kaynd),Tür / Nazik,Be kind.,Nazik ol.,(bi kaynd),Adj/Noun
+Head,(hed),Baþ,My head hurts.,Baþým aðrýyor.,(may hed hörts),Noun
+House,(haus),Ev,A big house.,Büyük bir ev.,(ey big haus),Noun
+Service,(sör-vis),Hizmet,Great service.,Harika hizmet.,(greyt sör-vis),Noun
+Friend,(frend),Arkadaþ,My best friend.,En iyi arkadaþým.,(may best frend),Noun
+Father,(fa-dýr),Baba,My father is tall.,Babam uzundur.,(may fa-dýr iz tol),Noun
+Power,(pa-výr),Güç,Knowledge is power.,Bilgi güçtür.,(no-lic iz pa-výr),Noun
+Hour,(au-výr),Saat,One hour.,Bir saat.,(van a-výr),Noun
+City,(si-ti),Þehir,I love this city.,Bu þehri seviyorum.,(ay lav dis si-ti),Noun
+Start,(start),Baþlamak,Let's start the game.,Hadi oyuna baþlayalým.,(lets start dý geym),Verb
+Stop,(stop),Durmak,Stop the car.,Arabayý durdur.,(stop dý kar),Verb
+Open,(o-pýn),Açmak,Open the door.,Kapýyý aç.,(o-pýn dý dor),Verb/Adj
+Close,(kloz),Kapatmak,Close the window.,Pencereyi kapat.,(kloz dý vin-dou),Verb/Adj
+Read,(rid),Okumak,Read a book.,Bir kitap oku.,(rid ey buk),Verb
+Write,(rayt),Yazmak,Write your name.,Ýsmini yaz.,(rayt yor neym),Verb
+Listen,(lis-ýn),Dinlemek,Listen to me.,Beni dinle.,(lis-ýn tu mi),Verb
+Speak,(spik),Konuþmak,Speak slowly.,Yavaþ konuþ.,(spik slo-li),Verb
+Eat,(it),Yemek yemek,I want to eat.,Yemek yemek istiyorum.,(ay vant tu it),Verb
+Drink,(drink),Ýçmek,Drink some water.,Biraz su iç.,(drink sam vo-týr),Verb
+Sleep,(slip),Uyumak,I need to sleep.,Uyumam lazým.,(ay nid tu slip),Verb
+Buy,(bay),Satýn almak,Buy a ticket.,Bir bilet al.,(bay ey ti-kýt),Verb
+Sell,(sel),Satmak,Sell your car.,Arabaný sat.,(sel yor kar),Verb
+Wait,(veyt),Beklemek,Wait for me.,Beni bekle.,(veyt for mi),Verb
+Walk,(vok),Yürümek,Walk in the park.,Parkta yürü.,(vok in dý park),Verb
+Sit,(sit),Oturmak,Sit down.,Otur.,(sit davn),Verb
+Stand,(stend),Ayakta durmak,Stand up.,Ayaða kalk.,(stend ap),Verb
+Watch,(voç),Ýzlemek,Watch a movie.,Bir film izle.,(voç ey mu-vi),Verb
+Learn,(lörn),Öðrenmek,I want to learn.,Öðrenmek istiyorum.,(ay vant tu lörn),Verb
+Understand,(an-dýr-stend),Anlamak,I understand you.,Seni anlýyorum.,(ay an-dýr-stend yu),Verb
+Remember,(ri-mem-býr),Hatýrlamak,Remember this day.,Bu günü hatýrla.,(ri-mem-býr dis dey),Verb
+Forget,(for-get),Unutmak,Don't forget me.,Beni unutma.,(dont for-get mi),Verb
+Kitchen,(kit-çýn),Mutfak,The kitchen is clean.,Mutfak temizdir.,(dý kit-çýn iz klin),Noun
+Food,(fud),Yemek,I love Italian food.,Ýtalyan yemeðini severim.,(ay lav i-tel-yýn fud),Noun
+Breakfast,(brek-fýst),Kahvaltý,Breakfast is ready.,Kahvaltý hazýr.,(brek-fýst iz re-di),Noun
+Lunch,(lanç),Öðle Yemeði,Let’s have lunch.,Hadi öðle yemeði yiyelim.,(lets hev lanç),Noun
+Dinner,(di-nýr),Akþam Yemeði,Dinner was good.,Akþam yemeði iyiydi.,(di-nýr vaz gud),Noun
+Apple,(e-pýl),Elma,Eat an apple.,Bir elma ye.,(it en e-pýl),Noun
+Milk,(milk),Süt,Drink your milk.,Sütünü iç.,(drink yor milk),Noun
+Coffee,(ka-fi),Kahve,I need coffee.,Kahveye ihtiyacým var.,(ay nid ka-fi),Noun
+Body,(ba-di),Vücut,My body is tired.,Vücudum yorgun.,(may ba-di iz tay-ýrd),Noun
+Mouth,(mavt),Aðýz,Open your mouth.,Aðzýný aç.,(o-pýn yor mavt),Noun
+Health,(helth),Saðlýk,Health is important.,Saðlýk önemlidir.,(helth iz im-por-tant),Noun
+Paper,(pey-pýr),Kaðýt,Give me a paper.,Bana bir kaðýt ver.,(giv mi ey pey-pýr),Noun
+Pen,(pen),Kalem,I have a pen.,Bir kalemim var.,(ay hev ey pen),Noun
+Table,(tey-býl),Masa,It is on the table.,O masanýn üstünde.,(it iz on dý tey-býl),Noun
+Chair,(çe-ýr),Sandalye,Sit on the chair.,Sandalyeye otur.,(sit on dý çe-ýr),Noun
+Window,(vin-dou),Pencere,Close the window.,Pencereyi kapat.,(kloz dý vin-dou),Noun
+Door,(dor),Kapý,Open the door.,Kapýyý aç.,(o-pýn dý dor),Noun
+Road,(roud),Yol,The road is long.,Yol uzundur.,(dý roud iz long),Noun
+Bus,(bas),Otobüs,Take the bus.,Otobüse bin.,(teyk dý bas),Noun
+Car,(kar),Araba,My car is blue.,Arabam mavidir.,(may kar iz blu),Noun
+Sun,(san),Güneþ,The sun is hot.,Güneþ sýcaktýr.,(dý san iz hat),Noun
+Moon,(mun),Ay,Look at the moon.,Aya bak.,(luk et dý mun),Noun
+Rain,(reyn),Yaðmur,I like the rain.,Yaðmuru severim.,(ay layk dý reyn),Noun
+Snow,(snou),Kar,I love the snow.,Karý seviyorum.,(ay lav dý snou),Noun
+Flower,(fla-výr),Çiçek,A beautiful flower.,Güzel bir çiçek.,(ey bi-yu-ti-ful fla-výr),Noun
+Tree,(tri),Aðaç,A big tree.,Büyük bir aðaç.,(ey big tri),Noun
+Dog,(dog),Köpek,I have a dog.,Bir köpeðim var.,(ay hev ey dog),Noun
+Cat,(ket),Kedi,The cat is cute.,Kedi sevimlidir.,(dý ket iz kiyut),Noun
+Bird,(börd),Kuþ,The bird can fly.,Kuþ uçabilir.,(dý börd ken flay),Noun
+Sea,(si),Deniz,The sea is blue.,Deniz mavidir.,(dý si iz blu),Noun
+River,(ri-výr),Nehir,The river is deep.,Nehir derindir.,(dý ri-výr iz dip),Noun
+Mountain,(mavn-týn),Dað,A high mountain.,Yüksek bir dað.,(hay mavn-týn),Noun
+Morning,(mor-ning),Sabah,In the morning.,Sabah vaktinde.,(in dý mor-ning),Noun
+Evening,(iv-ning),Akþam,Good evening.,Ýyi akþamlar.,(gud iv-ning),Noun
+Summer,(sa-mýr),Yaz,I love summer.,Yazý seviyorum.,(ay lav sa-mýr),Noun
+Winter,(vin-týr),Kýþ,Cold winter.,Soðuk kýþ.,(kold vin-týr),Noun
+Spring,(spring),Ýlkbahar,Spring is nice.,Ýlkbahar hoþtur.,(spring iz nays),Noun
+Autumn,(o-tým),Sonbahar,Autumn leaves.,Sonbahar yapraklarý.,(o-tým livz),Noun
+Today,(tu-dey),Bugün,I am busy today.,Bugün meþgulüm.,(ay em bi-zi tu-dey),Adv/Noun
+Yesterday,(yes-týr-dey),Dün,Yesterday was cold.,Dün soðuktu.,(yes-týr-dey vaz kold),Adv/Noun
+Tomorrow,(tu-ma-rou),Yarýn,See you tomorrow.,Yarýn görüþürüz.,(si yu tu-ma-rou),Adv/Noun
+Now,(nav),Þimdi,Do it now.,Þimdi yap.,(du it nav),Adv
+Always,(ol-veyz),Her zaman,I always try.,Her zaman denerim.,(ay ol-veyz tray),Adv
+Never,(ne-výr),Asla,Never say never.,Asla asla deme.,(ne-výr sey ne-výr),Adv
+Sometimes,(sam-taymz),Bazen,Sometimes it rains.,Bazen yaðmur yaðar.,(sam-taymz it reynz),Adv
+Often,(of-ýn),Sýk sýk,I often read.,Sýk sýk okurum.,(ay of-ýn rid),Adv
+Back,(bek),Geri,Come back.,Geri gel.,(kam bek),Adv/Noun
+Front,(frant),Ön,At the front.,Ön tarafta.,(et dý frant),Noun/Adj
+Under,(an-dýr),Altýnda,Under the bed.,Yataðýn altýnda.,(an-dýr dý bed),Prep
+Between,(bi-tvin),Arasýnda,Between us.,Aramýzda.,(bi-tvin as),Prep
+Inside,(in-sayd),Ýçinde,Go inside.,Ýçeri gir.,(go in-sayd),Adv/Prep
+Outside,(avt-sayd),Dýþýnda,Wait outside.,Dýþarýda bekle.,(veyt avt-sayd),Adv/Prep
+Color,(ka-lýr),Renk,My favorite color.,En sevdiðim renk.,(may fey-vý-rit ka-lýr),Noun
+Red,(red),Kýrmýzý,A red car.,Kýrmýzý bir araba.,(ey red kar),Adj
+Blue,(blu),Mavi,Blue sky.,Mavi gökyüzü.,(blu skay),Adj
+Green,(grin),Yeþil,Green grass.,Yeþil çimen.,(grin gres),Adj
+Yellow,(ye-lou),Sarý,Yellow flower.,Sarý çiçek.,(ye-lou fla-výr),Adj
+Black,(blek),Siyah,Black cat.,Siyah kedi.,(blek ket),Adj
+White,(vayt),Beyaz,White shirt.,Beyaz gömlek.,(vayt þört),Adj
+Early,(ör-li),Erken,Wake up early.,Erken uyan.,(veyk ap ör-li),Adj/Adv
+Late,(leyt),Geç,You are late.,Geç kaldýn.,(yu ar leyt),Adj/Adv
+Cheap,(çip),Ucuz,This is cheap.,Bu ucuz.,(dis iz çip),Adj
+Expensive,(eks-pen-siv),Pahalý,It is expensive.,O pahalýdýr.,(it iz eks-pen-siv),Adj
+Full,(ful),Dolu,The glass is full.,Bardak dolu.,(dý gles iz ful),Adj
+Empty,(emp-ti),Boþ,The box is empty.,Kutu boþ.,(dý boks iz emp-ti),Adj
+True,(tru),Doðru,It is true.,Bu doðru.,(iz it tru),Adj
+False,(fols),Yanlýþ,This is false.,Bu yanlýþtýr.,(dis iz fols),Adj
+Near,(nir),Yakýn,It is near.,Yakýnda.,(it iz nir),Adj/Prep
+Far,(far),Uzak,How far?,Ne kadar uzak?,(hav far),Adj/Adv
+Heavy,(he-vi),Aðýr,It is heavy.,O aðýrdýr.,(it iz he-vi),Adj
+Light,(layt),Hafif,The bag is light.,Çanta hafiftir.,(dý beg iz layt),Adj
+Quiet,(kva-yýt),Sessiz,Be quiet.,Sessiz ol.,(bi kva-yýt),Adj
+Ready,(re-di),Hazýr,I am ready.,Ben hazýrým.,(ay em re-di),Adj
+Famous,(fey-mýs),Ünlü,A famous man.,Ünlü bir adam.,(ey fey-mýs men),Adj
+Safe,(seyf),Güvenli,It is safe.,O güvenlidir.,(it iz seyf),Adj
+Possible,(po-si-býl),Mümkün,Is it possible?,Bu mümkün mü?,(iz it po-si-býl),Adj
+Important,(im-por-tant),Önemli,Very important.,Çok önemli.,(ve-ri im-por-tant),Adj
+Special,(spe-þýl),Özel,A special day.,Özel bir gün.,(ey spe-þýl dey),Adj
+Kind,(kaynd),Nazik / Tür,She is very kind.,O çok naziktir.,(þi iz ve-ri kaynd),Adj/Noun
+Hard,(hard),Sert / Zor,This rock is hard.,Bu kaya serttir.,(dis rak iz hard),Adj
+Soft,(soft),Yumuþak,The bed is soft.,Yatak yumuþaktýr.,(dý bed iz soft),Adj
+High,(hay),Yüksek,A high mountain.,Yüksek bir dað.,(ey hay mavn-týn),Adj
+Low,(lou),Alçak / Düþük,The sun is low.,Güneþ alçakta.,(dý san iz lou),Adj
+Simple,(sim-pýl),Basit,It is a simple plan.,Bu basit bir plan.,(it iz ey sim-pýl plen),Adj
+Dangerous,(deyn-cýr-ýs),Tehlikeli,It is dangerous.,O tehlikelidir.,(it iz deyn-cýr-ýs),Adj
+Possible,(po-si-býl),Mümkün,Everything is possible.,Her þey mümkündür.,(ev-ri-ting iz po-si-býl),Adj
+Impossible,(im-po-si-býl),Ýmkansýz,It is impossible.,O imkansýzdýr.,(it iz im-po-si-býl),Adj
+Special,(spe-þýl),Özel,A special gift.,Özel bir hediye.,(ey spe-þýl gift),Adj
+Different,(di-fý-rýnt),Farklý,We are different.,Biz farklýyýz.,(vi ar di-fý-rýnt),Adj
+Same,(seym),Ayný,The same color.,Ayný renk.,(dý seym ka-lýr),Adj
+Easy,(i-zi),Kolay,English is easy.,Ýngilizce kolaydýr.,(ing-liþ iz i-zi),Adj
+Bad,(bed),Kötü,A bad idea.,Kötü bir fikir.,(ey bed ay-di-ya),Adj
+Good,(gud),Ýyi,Good job!,Ýyi iþ!,(gud cab),Adj
+Healthy,(hel-ti),Saðlýklý,Eat healthy food.,Saðlýklý yemek ye.,(it hel-ti fud),Adj
+Sick,(sik),Hasta,I feel sick.,Hasta hissediyorum.,(ay fil sik),Adj
+Strong,(strong),Güçlü,You are strong.,Sen güçlüsün.,(yu ar strong),Adj
+Weak,(vik),Güçsüz,I feel weak.,Güçsüz hissediyorum.,(ay fil vik),Adj
+Young,(yang),Genç,A young girl.,Genç bir kýz.,(ey yang görl),Adj
+Rich,(riç),Zengin,A rich man.,Zengin bir adam.,(ey riç men),Adj
+Poor,(pu-ýr),Fakir,A poor family.,Fakir bir aile.,(ey pu-ýr fe-mi-li),Adj
+Hungry,(han-gri),Aç,I am hungry.,Açým.,(ay em han-gri),Adj
+Thirsty,(törs-ti),Susamýþ,I am thirsty.,Susadým.,(ay em törs-ti),Adj
+Sleepy,(sli-pi),Uykulu,I am sleepy.,Uykum var.,(ay em sli-pi),Adj
+Tired,(tay-ýrd),Yorgun,You look tired.,Yorgun görünüyorsun.,(yu luk tay-ýrd),Adj
+Angry,(eng-ri),Kýzgýn,Don't be angry.,Kýzgýn olma.,(dont bi eng-ri),Adj
+Brave,(breyv),Cesur,A brave boy.,Cesur bir çocuk.,(ey breyv boy),Adj
+Afraid,(ef-reyd),Korkmuþ,I am afraid.,Korkuyorum.,(ay em ef-reyd),Adj
+Lucky,(la-ki),Þanslý,You are lucky.,Þanslýsýn.,(yu ar la-ki),Adj
+Alone,(e-lon),Yalnýz,I am alone.,Yalnýzým.,(ay em e-lon),Adj
+Together,(tu-ge-dýr),Birlikte,Let's work together.,Birlikte çalýþalým.,(lets vörk tu-ge-dýr),Adv
+Near,(nir),Yakýn,It is very near.,O çok yakýnda.,(it iz ve-ri nir),Prep/Adj
+Far,(far),Uzak,Is it far?,Uzak mý?,(iz it far),Prep/Adj
+North,(nort),Kuzey,Go north.,Kuzeye git.,(go nort),Noun/Adj
+South,(savt),Güney,In the south.,Güneyde.,(in dý savt),Noun/Adj
+East,(ist),Doðu,The east wind.,Doðu rüzgarý.,(di ist vind),Noun/Adj
+West,(vest),Batý,Wild west.,Vahþi batý.,(vayld vest),Noun/Adj
+Left,(left),Sol,Turn left.,Sola dön.,(törn left),Noun/Adj
+Right,(rayt),Sað,On the right.,Saðda.,(on dý rayt),Noun/Adj
+Up,(ap),Yukarý,Look up.,Yukarý bak.,(luk ap),Adv
+Down,(davn),Aþaðý,Sit down.,Otur.,(sit davn),Adv
+In,(in),Ýçinde,It is in the box.,Kutunun içinde.,(it iz in dý boks),Prep
+On,(on),Üstünde,On the table.,Masanýn üstünde.,(on dý tey-býl),Prep
+Under,(an-dýr),Altýnda,Under the chair.,Sandalyenin altýnda.,(an-dýr dý çe-ýr),Prep
+Behind,(bi-haynd),Arkasýnda,Behind you.,Arkanda.,(bi-haynd yu),Prep
+Beside,(bi-sayd),Yanýnda,Sit beside me.,Yanýma otur.,(sit bi-sayd mi),Prep
+Between,(bi-tvin),Arasýnda,Between us.,Aramýzda.,(bi-tvin as),Prep
+About,(e-bavt),Hakkýnda,Tell me about it.,Bana ondan bahset.,(tel mi e-bavt it),Prep
+With,(vid),Ýle,Come with me.,Benimle gel.,(kam vid mi),Prep
+Without,(vi-davt),...sýz / ...siz,Without you.,Sensiz.,(vi-davt yu),Prep
+For,(for),Ýçin,This is for you.,Bu senin için.,(dis iz for yu),Prep
+From,(fram),-den / -dan,I am from here.,Buralýyým.,(ay em fram hir),Prep
+To,(tu),-e / -a,Go to school.,Okula git.,(go tu skul),Prep
+And,(end),Ve,You and me.,Sen ve ben.,(yu end mi),Conj
+But,(bat),Ama,Small but strong.,Küçük ama güçlü.,(smol bat strong),Conj
+Or,(or),Veya,Tea or coffee?,Çay mý kahve mi?,(ti or ka-fi),Conj
+Because,(bi-koz),Çünkü,Because I love it.,Çünkü onu seviyorum.,(bi-koz ay lav it),Conj
+So,(so),Bu yüzden / Öyle,"So, what?","Ee, ne olmuþ?",(so vat),Conj/Adv
+If,(if),Eðer,If you want.,Eðer istersen.,(if yu vant),Conj
+Then,(den),Sonra / O halde,"Then, let's go.",O halde gidelim.,(den lets go),Adv
+When,(ven),Ne zaman,When is it?,O ne zaman?,(ven iz it),Adv/Conj
+Where,(ver),Nerede,Where are you?,Neredesin?,(ver ar yu),Adv/Conj
+Who,(hu),Kim,Who is that?,O kim?,(hu iz det),Pronoun
+What,(vat),Ne,What is this?,Bu nedir?,(vat iz dis),Pronoun
+Which,(viç),Hangi,Which one?,Hangisi?,(viç van),Pronoun
+Why,(vay),Neden,Why not?,Neden olmasýn?,(vay not),Adv
+How,(hav),Nasýl,How are you?,Nasýlsýn?,(hav ar yu),Adv
+All,(ol),Hepsi,All of them.,Hepsi.,(ol ov dem),Adj/Pronoun
+Some,(sam),Biraz / Bazý,Some water.,Biraz su.,(sam vo-týr),Adj
+Any,(e-ni),Hiç / Herhangi,Any questions?,Hiç soru var mý?,(e-ni kves-çýnz),Adj
+No,(no),Hayýr / Hiç,No problem.,Sorun deðil.,(no prob-lým),Adv/Adj
+Every,(ev-ri),Her,Every day.,Her gün.,(ev-ri dey),Adj
+Only,(on-li),Sadece,Only you.,Sadece sen.,(on-li yu),Adv/Adj
+Very,(ve-ri),Çok,Very good.,Çok iyi.,(ve-ri gud),Adv
+Too,(tu),Çok / De-da,Me too.,Ben de.,(mi tu),Adv
+Also,(ol-so),Ayrýca,I also know.,Ben de biliyorum.,(ay ol-so nou),Adv
+Still,(stil),Hala,I am still here.,Hala buradayým.,(ay em stil hir),Adv
+Just,(cast),Sadece / Henüz,Just a moment.,Sadece bir dakika.,(cast ey mo-mýnt),Adv
+Again,(e-gen),Tekrar,Try again.,Tekrar dene.,(tray e-gen),Adv
+Almost,(ol-most),Neredeyse,Almost done.,Neredeyse bitti.,(ol-most dan),Adv
+Maybe,(mey-bi),Belki,Maybe later.,Belki sonra.,(mey-bi ley-týr),Adv
+People,(pi-pýl),Ýnsanlar,Nice people.,Nazik insanlar.,(nays pi-pýl),Noun
+Thing,(ting),Þey,One more thing.,Bir þey daha.,(van mor ting),Noun
+Way,(vey),Yol / Yöntem,This way.,Bu taraftan.,(dis vey),Noun
+Place,(pleys),Yer,A quiet place.,Sessiz bir yer.,(ey kva-yýt pleys),Noun
+Group,(grup),Grup,Join the group.,Gruba katýl.,(coin dý grup),Noun
+System,(sis-tým),Sistem,The system is up.,Sistem çalýþýyor.,(dý sis-tým iz ap),Noun
+Point,(poynt),Nokta,Good point.,Ýyi nokta.,(gud poynt),Noun
+Idea,(ay-di-ya),Fikir,Great idea.,Harika fikir.,(greyt ay-di-ya),Noun
+Fact,(fekt),Gerçek,It is a fact.,Bu bir gerçektir.,(it iz ey fekt),Noun
+Case,(keys),Durum / Vaka,In this case.,Bu durumda.,(in dis keys),Noun
+Problem,(prob-lým),Problem,No problem.,Problem yok.,(no prob-lým),Noun
+Job,(cab),Ýþ,Good job.,Ýyi iþ.,(gud cab),Noun
+Side,(sayd),Taraf,On my side.,Benim tarafýmda.,(on may sayd),Noun
+Part,(part),Parça,A part of me.,Benim bir parçam.,(ey part ov mi),Noun
+End,(end),Son,The end.,Son.,(di end),Noun
+Wait,(veyt),Beklemek,Wait a minute.,Bir dakika bekle.,(veyt ey mi-nit),Verb
+Try,(tray),Denemek,Try your best.,Elinden geleni dene.,(tray yor best),Verb
+Show,(þou),Göstermek,Show me.,Bana göster.,(þou mi),Verb
+Clear,(klir),Net / Açýk,The sky is clear.,Gökyüzü açýk.,(dý skay iz klir),Adj
+Cloud,(klavd),Bulut,Look at that white cloud.,Þu beyaz buluta bak.,(luk et det vayt klavd),Noun
+Dark,(dark),Karanlýk,It's getting dark.,Hava kararýyor.,(its ge-ting dark),Adj/Noun
+Light,(layt),Iþýk / Hafif,Turn on the light.,Iþýðý aç.,(törn on dý layt),Noun/Adj
+Music,(mi-yu-zik),Müzik,I love listening to music.,Müzik dinlemeyi severim.,(ay lav lis-ning tu mi-yu-zik),Noun
+Song,(song),Þarký,This is my favorite song.,Bu benim en sevdiðim þarký.,(dis iz may fey-vý-rit song),Noun
+Movie,(mu-vi),Film,Let's watch a movie.,Hadi bir film izleyelim.,(lets voç ey mu-vi),Noun
+Game,(geym),Oyun,Do you want to play a game?,Oyun oynamak ister misin?,(du yu vant tu pley ey geym),Noun
+Sport,(sport),Spor,Football is a popular sport.,Futbol popüler bir spordur.,(fut-bol iz ey po-pý-lýr sport),Noun
+Travel,(tre-výl),Seyahat etmek,I want to travel the world.,Dünyayý gezmek istiyorum.,(ay vant tu tre-výl dý vörld),Verb/Noun
+Visit,(vi-zit),Ziyaret etmek,I will visit my grandmother.,Büyükannemi ziyaret edeceðim.,(ay vil vi-zit may grend-ma-dýr),Verb/Noun
+Holiday,(ha-li-dey),Tatil,Where are you going for holiday?,Tatile nereye gidiyorsun?,(ver ar yu go-ing for ha-li-dey),Noun
+Beach,(biç),Plaj,Let's go to the beach.,Hadi plaja gidelim.,(lets go tu dý biç),Noun
+Hotel,(ho-tel),Otel,The hotel is near the sea.,Otel denize yakýndýr.,(dý ho-tel iz nir dý si),Noun
+Ticket,(ti-kýt),Bilet,Do you have your ticket?,Biletin var mý?,(du yu hev yor ti-kýt),Noun
+Bag,(beg),Çanta,Put it in your bag.,Onu çantana koy.,(put it in yor beg),Noun
+Key,(ki),Anahtar,I lost my house key.,Ev anahtarýmý kaybettim.,(ay lost may haus ki),Noun
+Money,(ma-ni),Para,How much money is it?,O ne kadar para?,(hav maç ma-ni iz it),Noun
+Store,(stor),Maðaza,The store is closed.,Maðaza kapalý.,(dý stor iz klozd),Noun
+Market,(mar-kýt),Market,I am going to the market.,Markete gidiyorum.,(ay em go-ing tu dý mar-kýt),Noun
+Price,(prays),Fiyat,The price is high.,Fiyat yüksektir.,(dý prays iz hay),Noun
+Bill,(bil),Fatura / Hesap,"Can I have the bill, please?",Hesabý alabilir miyim lütfen?,(ken ay hev dý bil pliz),Noun
+Free,(fri),Ücretsiz / Özgür,The water is free.,Su ücretsizdir.,(dý vo-týr iz fri),Adj
+Help,(help),Yardým / Yardým etmek,Can you help me?,Bana yardým edebilir misin?,(ken yu help mi),Noun/Verb
+Care,(ke-ýr),Bakým / Önemsemek,Take care!,Kendine iyi bak!,(teyk ke-ýr),Noun/Verb
+Safe,(seyf),Güvenli,It is safe here.,Burasý güvenlidir.,(it iz seyf hir),Adj
+Health,(helt),Saðlýk,Health is wealth.,Saðlýk servettir.,(helt iz velt),Noun
+Doctor,(dok-týr),Doktor,I need to see a doctor.,Bir doktor görmem lazým.,(ay nid tu si ey dok-týr),Noun
+Hospital,(has-pi-týl),Hastane,Where is the nearest hospital?,En yakýn hastane nerede?,(ver iz dý nir-ist has-pi-týl),Noun
+Medicine,(me-di-sýn),Ýlaç,Take your medicine.,Ýlacýný iç.,(teyk yor me-di-sýn),Noun
+Pain,(peyn),Acý / Aðrý,I have a pain in my back.,Sýrtýmda bir aðrý var.,(ay hev ey peyn in may bek),Noun
+Life,(layf),Hayat,Life is full of surprises.,Hayat sürprizlerle doludur.,(layf iz ful ov sör-pray-zýz),Noun
+Death,(det),Ölüm,Life and death.,Hayat ve ölüm.,(layf end det),Noun
+Body,(ba-di),Vücut,Keep your body strong.,Vücudunu güçlü tut.,(kip yor ba-di strong),Noun
+Head,(hed),Baþ,My head hurts.,Baþým aðrýyor.,(may hed hörts),Noun
+Face,(fe-ys),Yüz,Wash your face.,Yüzünü yýka.,(voþ yor fe-ys),Noun
+Hair,(he-ýr),Saç,She has long hair.,Onun uzun saçlarý var.,(þi hez long he-ýr),Noun
+Eye,(ay),Göz,Close your eyes.,Gözlerini kapat.,(kloz yor ayz),Noun
+Ear,(ir),Kulak,I can't believe my ears.,Kulaklarýma inanamýyorum.,(ay kent bi-liv may irz),Noun
+Nose,(nouz),Burun,My nose is cold.,Burnum soðuk.,(may nouz iz kold),Noun
+Mouth,(mavt),Aðýz,Keep your mouth closed.,Aðzýný kapalý tut.,(kip yor mavt klozd),Noun
+Tooth,(tut),Diþ,I have a tooth ache.,Diþim aðrýyor.,(ay hev ey tut eyk),Noun
+Arm,(arm),Kol,He has a strong arm.,Onun güçlü bir kolu var.,(hi hez ey strong arm),Noun
+Leg,(leg),Bacak,My legs are tired.,Bacaklarým yorgun.,(may legz ar tay-ýrd),Noun
+Hand,(hend),El,Give me your hand.,Elini bana ver.,(giv mi yor hend),Noun
+Foot,(fut),Ayak,On foot.,Yürüyerek (ayak üzerinde).,(on fut),Noun
+Blood,(blad),Kan,Blood is red.,Kan kýrmýzýdýr.,(blad iz red),Noun
+Heart,(hart),Kalp,Follow your heart.,Kalbinin sesini dinle.,(fa-lou yor hart),Noun
+Brain,(breyn),Beyin,Use your brain.,Beynini kullan.,(yuz yor breyn),Noun
+God,(gad),Tanrý,Oh my God!,Aman Tanrým!,(o may gad),Noun
+Nature,(ney-çýr),Doða,I love being in nature.,Doðada olmayý severim.,(ay lav bi-ing in ney-çýr),Noun
+World,(vörld),Dünya,The world is big.,Dünya büyüktür.,(dý vörld iz big),Noun
+Country,(kan-tri),Ülke,Which country are you from?,Hangi ülkeden geliyorsun?,(viç kan-tri ar yu fram),Noun
+City,(si-ti),Þehir,Istanbul is a beautiful city.,Ýstanbul güzel bir þehirdir.,(is-tan-bul iz ey bi-yu-ti-ful si-ti),Noun
+Town,(tavn),Kasaba,It is a small town.,O küçük bir kasabadýr.,(it iz ey smol tavn),Noun
+Village,(vi-lic),Köy,I live in a village.,Bir köyde yaþýyorum.,(ay liv in ey vi-lic),Noun
+Street,(strit),Sokak,This is a busy street.,Burasý kalabalýk bir sokaktýr.,(dis iz ey bi-zi strit),Noun
+House,(havs),Ev,This is my house.,Bu benim evim.,(dis iz may havs),Noun
+Building,(bil-ding),Bina,It is a tall building.,O yüksek bir binadýr.,(it iz ey tol bil-ding),Noun
+Room,(rum),Oda,My room is small.,Odam küçüktür.,(may rum iz smol),Noun
+Floor,(flor),Yer / Kat,Sit on the floor.,Yere otur.,(sit on dý flor),Noun
+Window,(vin-dou),Pencere,"Open the window, please.",Lütfen pencereyi aç.,(o-pýn dý vin-dou pliz),Noun
+Door,(dor),Kapý,Close the door.,Kapýyý kapat.,(kloz dý dor),Noun
+Wall,(vol),Duvar,A white wall.,Beyaz bir duvar.,(vayt vol),Noun
+Garden,(gar-dýn),Bahçe,We have a big garden.,Büyük bir bahçemiz var.,(vi hev ey big gar-dýn),Noun
+Air,(er),Hava,Fresh air.,Taze hava.,(freþ er),Noun
+Water,(vo-týr),Su,Drink more water.,Daha fazla su iç.,(drink mor vo-týr),Noun
+Fire,(fa-yýr),Ateþ,Don't play with fire.,Ateþle oynama.,(dont pley vid fa-yýr),Noun
+Earth,(ört),Dünya / Toprak,The earth is round.,Dünya yuvarlaktýr.,(di ört iz ravnd),Noun
+Sun,(san),Güneþ,The sun is shining.,Güneþ parlýyor.,(dý san iz þay-ning),Noun
+Moon,(mun),Ay,The moon is bright tonight.,Bu gece ay parlaktýr.,(dý mun iz brayt tu-nayt),Noun
+Star,(star),Yýldýz,I can see the stars.,Yýldýzlarý görebiliyorum.,(ay ken si dý starz),Noun
+Sky,(skay),Gökyüzü,The sky is blue.,Gökyüzü mavidir.,(dý skay iz blu),Noun
+River,(ri-výr),Nehir,The river is long.,Nehir uzundur.,(dý ri-výr iz long),Noun
+Sea,(si),Deniz,I like the sea.,Denizi severim.,(ay lav dý si),Noun
+Ocean,(o-þýn),Okyanus,The ocean is deep.,Okyanus derindir.,(di o-þýn iz dip),Noun
+Mountain,(mavn-týn),Dað,I want to climb a mountain.,Bir daða týrmanmak istiyorum.,(ay vant tu klaym ey mavn-týn),Noun
+Rock,(rak),Kaya,This rock is heavy.,Bu kaya aðýrdýr.,(dis rak iz he-vi),Noun
+Sand,(send),Kum,I love the sand between my toes.,Ayak parmaklarýmýn arasýndaki kumu seviyorum.,(ay lav dý send bi-tvin may toz),Noun
+Plant,(plent),Bitki,Water the plants.,Bitkileri sula.,(vo-týr dý plent-s),Noun/Verb
+Tree,(tri),Aðaç,A big green tree.,Büyük yeþil bir aðaç.,(ey big grin tri),Noun
+Flower,(fla-výr),Çiçek,Give her a flower.,Ona bir çiçek ver.,(giv hör ey fla-výr),Noun
+Animal,(e-ni-mýl),Hayvan,My favorite animal is a dog.,En sevdiðim hayvan köpektir.,(may fey-vý-rit e-ni-mýl iz ey dog),Noun
+Bird,(börd),Kuþ,The bird is singing.,Kuþ ötüyor.,(dý börd iz sin-ging),Noun
+Fish,(fiþ),Balýk,There are many fish in the sea.,Denizde çok balýk var.,(der ar me-ni fiþ in dý si),Noun
+Horse,(hors),At,He can ride a horse.,O ata binebilir.,(hi ken rayd ey hors),Noun
+Cow,(kav),Ýnek,The cow gives milk.,Ýnek süt verir.,(dý kav givz milk),Noun
+Sheep,(þip),Koyun,Look at those sheep.,Þu koyunlara bak.,(luk et doz þip),Noun
+Pig,(pig),Domuz,A pink pig.,Pembe bir domuz.,(ey pink pig),Noun
+Cat,(ket),Kedi,My cat is sleeping.,Kedim uyuyor.,(may ket iz sli-ping),Noun
+Dog,(dog),Köpek,The dog is barking.,Köpek havlýyor.,(dý dog iz bar-king),Noun
+Friend,(frend),Arkadaþ,You are a good friend.,Ýyi bir arkadaþsýn.,(yu ar ey gud frend),Noun
+Teacher,(ti-çýr),Öðretmen,Listen to the teacher.,Öðretmeni dinle.,(lis-ýn tu dý ti-çýr),Noun
+Student,(stü-dýnt),Öðrenci,I am a university student.,Ben üniversite öðrencisiyim.,(ay em ey yu-ni-vör-si-ti stü-dýnt),Noun
+Book,(buk),Kitap,Read this book.,Bu kitabý oku.,(rid dis buk),Noun
+Pen,(pen),Kalem,Can I borrow your pen?,Kalemini ödünç alabilir miyim?,(ken ay bo-rou yor pen),Noun
+Paper,(pey-pýr),Kaðýt,I need a piece of paper.,Bir parça kaðýda ihtiyacým var.,(ay nid ey pis ov pey-pýr),Noun
+Class,(kles),Sýnýf / Ders,The class is starting.,Ders baþlýyor.,(dý kles iz star-ting),Noun
+Work,(vörk),Ýþ / Çalýþmak,I have a lot of work.,Çok iþim var.,(ay hev ey lot ov vörk),Noun/Verb
+School,(skul),Okul,I go to school every day.,Her gün okula giderim.,(ay go tu skul ev-ri dey),Noun
+History,(his-to-ri),Tarih,I like learning history.,Tarih öðrenmeyi severim.,(ay layk lör-ning his-to-ri),Noun
+Art,(art),Sanat,Modern art is interesting.,Modern sanat ilginçtir.,(mo-dörn art iz in-tre-sting),Noun
+Music,(mi-yu-zik),Müzik,Play some music.,Biraz müzik çal.,(pley sam mi-yu-zik),Noun
+War,(vor),Savaþ,War is terrible.,Savaþ korkunçtur.,(vor iz te-ri-býl),Noun
+Peace,(pis),Barýþ,We want peace.,Barýþ istiyoruz.,(vi vant pis),Noun
+Law,(lo),Kanun / Hukuk,Follow the law.,Kanunlara uyun.,(fa-lou dý lo),Noun
+Officer,(o-fi-sýr),Memur / Subay,He is a police officer.,O bir polis memurudur.,(hi iz ey po-lis o-fi-sýr),Noun
+President,(pre-zi-dýnt),Baþkan,The president is speaking.,Baþkan konuþuyor.,(dý pre-zi-dýnt iz spi-king),Noun
+Voice,(voys),Ses (Ýnsan),I like your voice.,Sesini seviyorum.,(ay layk yor voys),Noun
+Sound,(savnd),Ses (Nesne),What is that sound?,O ses nedir?,(vat iz det savnd),Noun
+Step,(step),Adým,Take one step.,Bir adým at.,(teyk van step),Noun
+Side,(sayd),Yan / Taraf,On the other side.,Diðer tarafta.,(on di a-dýr sayd),Noun
+Surface,(sör-fýs),Yüzey,A smooth surface.,Pürüzsüz bir yüzey.,(ey smud sör-fýs),Noun
+Glass,(gles),Bardak / Cam,A glass of water.,Bir bardak su.,(ey gles ov vo-týr),Noun
+Box,(boks),Kutu,Open the box.,Kutuyu aç.,(o-pýn dý boks),Noun
+Bag,(beg),Çanta,Carry your bag.,Çantaný taþý.,(ke-ri yor beg),Noun
+Gift,(gift),Hediye,A special gift.,Özel bir hediye.,(ey spe-þýl gift),Noun
+Card,(kard),Kart,My credit card.,Kredi kartým.,(may kre-dit kard),Noun
+Circle,(sör-kýl),Daire,Draw a circle.,Bir daire çiz.,(dro ey sör-kýl),Noun
+Square,(skve-ýr),Kare,A square table.,Kare bir masa.,(ey skve-ýr tey-býl),Noun
+Line,(layn),Çizgi / Hat,Wait in line.,Sýrada (çizgide) bekle.,(veyt in layn),Noun
+Point,(poynt),Nokta,What is the point?,Mesele nedir?,(vat iz dý poynt),Noun
+Size,(sayz),Boyut,What size is it?,Boyutu nedir?,(vat sayz iz it),Noun
+Weight,(veyt),Aðýrlýk,Lose some weight.,Biraz kilo (aðýrlýk) ver.,(luz sam veyt),Noun
+Distance,(dis-týns),Mesafe,Long distance.,Uzun mesafe.,(long dis-týns),Noun
+Deep,(dip),Derin,The water is deep.,Su derindir.,(dý vo-týr iz dip),Adj
+Wide,(vayd),Geniþ,A wide road.,Geniþ bir yol.,(ey vayd roud),Adj
+Thin,(tin),Ýnce,A thin book.,Ýnce bir kitap.,(ey tin buk),Adj
+Thick,(tik),Kalýn,A thick wall.,Kalýn bir duvar.,(ey tik vol),Adj
+Soft,(soft),Yumuþak,Soft skin.,Yumuþak cilt.,(soft skin),Adj
+Hard,(hard),Sert / Zor,Hard work.,Zor iþ.,(hard vörk),Adj
+Strange,(strenc),Garip,A strange man.,Garip bir adam.,(ey strenc men),Adj
+Common,(ka-mýn),Yaygýn,A common mistake.,Yaygýn bir hata.,(ey ka-mýn mis-teyk),Adj
+Final,(fay-nýl),Final / Son,The final game.,Final maçý.,(dý fay-nýl geym),Adj
+Possible,(po-si-býl),Mümkün,It is possible.,Mümkündür.,(it iz po-si-býl),Adj
+Impossible,(im-po-si-býl),Ýmkansýz,It's impossible.,Ýmkansýzdýr.,(its im-po-si-býl),Adj
+Main,(meyn),Ana / Temel,The main street.,Ana cadde.,(dý meyn strit),Adj
+Simple,(sim-pýl),Basit,Keep it simple.,Basit tut.,(kip it sim-pýl),Adj
+Natural,(ne-çý-rýl),Doðal,Natural gas.,Doðal gaz.,(ne-çý-rýl ges),Adj
+Free,(fri),Özgür / Bedava,I am free now.,Þimdi özgürüm (müsaitim).,(ay em fri nav),Adj
+Ready,(re-di),Hazýr,Get ready.,Hazýrlan (hazýr ol).,(get re-di),Adj
+Full,(ful),Dolu,The bus is full.,Otobüs dolu.,(dý bas iz ful),Adj
+Empty,(emp-ti),Boþ,Empty your pocket.,Cebini boþalt.,(emp-ti yor po-kýt),Adj
+Correct,(ko-rekt),Doðru,Is that correct?,Bu doðru mu?,(iz det ko-rekt),Adj/Verb
+Incorrect,(in-ko-rekt),Yanlýþ,An incorrect answer.,Yanlýþ bir cevap.,(en in-ko-rekt en-sýr),Adj
+Public,(pab-lik),Kamusal / Halk,Public transport.,Toplu taþýma.,(pab-lik trens-port),Adj/Noun
+Private,(pray-výt),Özel,A private room.,Özel bir oda.,(ey pray-výt rum),Adj
+Quick,(kvik),Hýzlý,A quick lunch.,Hýzlý bir öðle yemeði.,(ey kvik lanç),Adj/Adv
+Serious,(si-ri-yýs),Ciddi,A serious problem.,Ciddi bir problem.,(ey si-ri-yýs prob-lým),Adj
+Quiet,(kva-yýt),Sessiz,Please be quiet.,Lütfen sessiz olun.,(pliz bi kva-yýt),Adj
+Loud,(lavd),Yüksek sesli,Don't talk so loud.,Bu kadar yüksek sesle konuþma.,(dont vok so lavd),Adj/Adv
+Sweet,(svit),Tatlý,Sweet tea.,Tatlý çay.,(svit ti),Adj
+Bitter,(bi-týr),Acý (Tat),Bitter coffee.,Acý kahve.,(bi-týr ka-fi),Adj
+Fresh,(freþ),Taze,Fresh fruit.,Taze meyve.,(freþ frut),Adj
+Expensive,(eks-pen-siv),Pahalý,It's too expensive.,Çok pahalý.,(its tu eks-pen-siv),Adj
+Cheap,(çip),Ucuz,Cheap shoes.,Ucuz ayakkabý.,(çip þuz),Adj
+Rich,(riç),Zengin,A rich country.,Zengin bir ülke.,(ey riç kan-tri),Adj
+Poor,(pu-ýr),Fakir,A poor family.,Fakir bir aile.,(ey pu-ýr fe-mi-li),Adj
+Strong,(strong),Güçlü,He is very strong.,O çok güçlüdür.,(hi iz ve-ri strong),Adj
+Weak,(vik),Güçsüz,I feel weak.,Güçsüz hissediyorum.,(ay fil vik),Adj
+Young,(yang),Genç,A young girl.,Genç bir kýz.,(ey yang görl),Adj
+Old,(old),Eski / Yaþlý,My old house.,Eski evim.,(may old haus),Adj
+Long,(long),Uzun,Long hair.,Uzun saç.,(long he-ýr),Adj
+Short,(þort),Kýsa,A short man.,Kýsa bir adam.,(ey þort men),Adj
+Wide,(vayd),Geniþ,A wide door.,Geniþ bir kapý.,(ey vayd dor),Adj
+Clean,(klin),Temiz,Keep it clean.,Temiz tut.,(kip it klin),Adj/Verb
+Dirty,(dör-ti),Kirli,Dirty clothes.,Kirli kýyafetler.,(dör-ti klodz),Adj
+Hot,(hat),Sýcak,Hot water.,Sýcak su.,(hat vo-týr),Adj
+Cold,(kold),Soðuk,I'm cold.,Üþüyorum (soðuðum).,(ay em kold),Adj
+New,(ni-yu),Yeni,New shoes.,Yeni ayakkabýlar.,(ni-yu þuz),Adj
+Bright,(brayt),Parlak,A bright idea.,Parlak bir fikir.,(ey brayt ay-di-ya),Adj
+Dark,(dark),Karanlýk,Dark blue.,Koyu (karanlýk) mavi.,(dark blu),Adj
+Early,(ör-li),Erken,It's too early.,Çok erken.,(its tu ör-li),Adj/Adv
+Late,(leyt),Geç,Don't be late.,Geç kalma.,(dont bi leyt),Adj/Adv
+Fast,(fest),Hýzlý,A fast car.,Hýzlý bir araba.,(ey fest kar),Adj/Adv
+Slow,(slo),Yavaþ,Be slow.,Yavaþ ol.,(bi slo),Adj/Adv
+High,(hay),Yüksek,High level.,Yüksek seviye.,(hay le-výl),Adj
+Low,(lou),Düþük,Low price.,Düþük fiyat.,(lou prays),Adj
+Good,(gud),Ýyi,Good luck.,Ýyi þanslar.,(gud lak),Adj
+Bad,(bed),Kötü,A bad dream.,Kötü bir rüya.,(ey bed drim),Adj
+Easy,(i-zi),Kolay,An easy test.,Kolay bir test.,(en i-zi test),Adj
+Difficult,(di-fi-kalt),Zor,It's difficult.,Zordur.,(its di-fi-kalt),Adj
+Safe,(seyf),Güvenli,Drive safe.,Güvenli sür.,(drayv seyf),Adj
+Dangerous,(deyn-cýr-ýs),Tehlikeli,It's dangerous.,Tehlikelidir.,(its deyn-cýr-ýs),Adj
+Beautiful,(bi-yu-ti-ful),Güzel,Beautiful garden.,Güzel bahçe.,(bi-yu-ti-ful gar-dýn),Adj
+Ugly,(ag-li),Çirkin,An ugly duck.,Çirkin bir ördek.,(en ag-li dak),Adj
+Happy,(he-pi),Mutlu,Happy ending.,Mutlu son.,(he-pi en-ding),Adj
+Sad,(sed),Üzgün,A sad movie.,Üzgün (hüzünlü) bir film.,(ey sed mu-vi),Adj
+Angry,(eng-ri),Kýzgýn,He is angry.,O kýzgýndýr.,(hi iz eng-ri),Adj
+Afraid,(ef-reyd),Korkmuþ,Don't be afraid.,Korkma.,(dont bi ef-reyd),Adj
+Funny,(fa-ni),Komik,A funny story.,Komik bir hikaye.,(ey fa-ni sto-ri),Adj
+Boring,(bo-ring),Sýkýcý,This is boring.,Bu sýkýcý.,(dis iz bo-ring),Adj
+Kind,(kaynd),Nazik,Be kind to others.,Diðerlerine karþý nazik ol.,(bi kaynd tu a-dýrz),Adj
+Busy,(bi-zi),Meþgul,I am very busy.,Çok meþgulüm.,(ay em ve-ri bi-zi),Adj
+Hungry,(han-gri),Aç,Are you hungry?,Aç mýsýn?,(ar yu han-gri),Adj
+Thirsty,(törs-ti),Susamýþ,Drink water if you're thirsty.,Susadýysan su iç.,(drink vo-týr if yor törs-ti),Adj
+Sleepy,(sli-pi),Uykulu,I'm so sleepy.,Çok uykum var.,(ay em so sli-pi),Adj
+Tired,(tay-ýrd),Yorgun,I'm tired of waiting.,Beklemekten yoruldum.,(ay em tay-ýrd ov vey-ting),Adj
