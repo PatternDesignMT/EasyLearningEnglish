@@ -7,35 +7,37 @@ def main(page: ft.Page):
     page.theme_mode = ft.ThemeMode.LIGHT
     page.padding = 20
     
-    # Kelimeleri tutacak liste
     words_db = []
 
-    # Veriyi standart Python csv modülü ile yükle
+    # Veriyi farklı bir encoding (latin-1) ile okumayı deniyoruz
+    # Bu, Türkçe karakter uyuşmazlıklarını genellikle çözer
     try:
-        with open("A1_Kelimeler.csv", mode='r', encoding='utf-8') as file:
+        with open("A1_Kelimeler.csv", mode='r', encoding='latin-1') as file:
             reader = csv.DictReader(file)
             for row in reader:
-                words_db.append(row)
+                # Sütun isimlerindeki boşlukları temizleyerek listeye ekle
+                clean_row = {k.strip(): v.strip() for k, v in row.items()}
+                words_db.append(clean_row)
     except Exception as e:
+        # Eğer latin-1 de yemezse, hatayı ekranda göster
         return page.add(ft.Text(f"Hata: Veri dosyası okunamadı! {e}"))
 
     def get_new_word():
         return random.choice(words_db) if words_db else {"Word": "No Data", "Turkish": "Veri Yok"}
 
-    # İlk kelimeyi al
     current_data = get_new_word()
     
-    word_text = ft.Text(current_data['Word'], size=40, weight=ft.FontWeight.BOLD, color=ft.Colors.BLUE_900)
+    word_text = ft.Text(current_data.get('Word', 'Hata'), size=40, weight=ft.FontWeight.BOLD, color=ft.Colors.BLUE_900)
     translation_text = ft.Text("", size=30, italic=True, color=ft.Colors.GREEN_700)
 
     def show_translation(e):
-        translation_text.value = current_data['Turkish']
+        translation_text.value = current_data.get('Turkish', 'Veri Yok')
         page.update()
 
     def next_word(e):
         nonlocal current_data
         current_data = get_new_word()
-        word_text.value = current_data['Word']
+        word_text.value = current_data.get('Word', 'Hata')
         translation_text.value = ""
         page.update()
 
